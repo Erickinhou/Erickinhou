@@ -6,7 +6,7 @@ I have solid experience with projects using JavaScript, Node, React, Express, Mo
 
 * :seedling: I’m currently focus on learning Typescript with Node.js<br>
 
-* :busts_in_silhouette: See my LinkedIn [here](https://www.linkedin.com/in/erick-willian-8553a2133/)<br>
+* :busts_in_silhouette: See my [LinkedIn](https://www.linkedin.com/in/erick-willian-8553a2133/)<br>
 
 
 ![Erickinhou's github stats](https://github-readme-stats.vercel.app/api?username=Erickinhou&show_icons=true&theme=dark&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickinhou&layout=compact&theme=dark)](https://github.com/Erickinhou/github-readme-stats)
