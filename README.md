@@ -6,7 +6,7 @@ I have solid experience with projects using JavaScript, Node, React, Express, Mo
 
 * :seedling: I’m currently focus on learning Typescript with Node.js<br>
 
-* :rockeat: See my [peesonal website]|(https://erickwillian.me/) to more information about me<br>
+* :rocket: See my [personal website](https://erickwillian.me/) to more information about me.<br>
 
 * :busts_in_silhouette: See my [LinkedIn](https://www.linkedin.com/in/erick-willian-8553a2133/)<br>
 
