@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer with 2 years of experience passionate about the best web development technologies.<br><br>
+I'm a Full Stack Developer with 4 years of experience passionate about the best web development technologies.<br><br>
 I have solid experience with projects using JavaScript, Node, React, Express, MongoDB, and Knex.js. Also, I'm a student at the northern state university of minas, where I learned in practice the most modern technologies of web development.<br>
-* :telescope: I’m currently working on my company [lecode](https://lecode.dev/)<br>
+* :telescope: I’m currently working on my company [DTI Digital](https://www.dtidigital.com.br/)<br>
 
 * :seedling: I’m currently focus on learning Typescript with Node.js<br>
 
