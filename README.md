@@ -6,7 +6,7 @@ I have solid experience using Next.js, JavaScript / Typescript, Node, React, Exp
 
 :book: Focused on C# with .NET<br>
 
-:rocket: See my [personal website]([https://erickinhou.github.io/Lo-Fi-Portifolio/] to more information about me.<br>
+:rocket: See my [personal website](https://erickinhou.github.io/Lo-Fi-Portifolio/) to more information about me.<br>
 
 :busts_in_silhouette: See my [LinkedIn](https://www.linkedin.com/in/erick-willian-8553a2133/)<br>
 
