@@ -4,9 +4,9 @@ I've been a Full Stack Developer since 2018 passionate about the best web develo
 I have solid experience using Next.js, JavaScript / Typescript, Node, React, Express, SQL, etc.<br><br>
 :house: I work at company [DTI Digital](https://www.dtidigital.com.br/)<br>
 
-:book: Focused on Typescript with Next.js<br>
+:book: Focused on C# with .NET<br>
 
-:rocket: See my [personal website](https://erickwillian.me/) to more information about me.<br>
+:rocket: See my [personal website]([https://erickwillian.me/](https://erickinhou.github.io/Lo-Fi-Portifolio/)) to more information about me.<br>
 
 :busts_in_silhouette: See my [LinkedIn](https://www.linkedin.com/in/erick-willian-8553a2133/)<br>
 
